@@ -1,0 +1,5 @@
+/*
+    (3 > 5) é falso, falso é igual a falso, verdadeiro ou falso é igual a verdadeiro,
+    não verdadeiro é igual a falso
+*/
+! (true || (false == (3 > 5)))

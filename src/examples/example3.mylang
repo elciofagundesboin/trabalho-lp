@@ -1,0 +1,8 @@
+if ((2 + 3) == 5) then
+    (3 + 4) // comentário teste de 1 linha
+else
+    /*
+        comentário teste
+        de 2 linhas
+    */
+    (3 + 5)

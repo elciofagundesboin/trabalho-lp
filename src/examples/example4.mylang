@@ -1,0 +1,3 @@
+// Se for par, o resultado é verdadeiro, senão é falso
+let x = 10 in
+    ((x % 2) == 0) ? true : false
